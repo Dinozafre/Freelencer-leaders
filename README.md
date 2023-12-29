@@ -1,1 +1,1 @@
-This images library for HitmanWoa, all Freelancer suspects variatins exist in the game
+This images library for Hitman WoA, all Freelancer suspects variatins exist in the game on screenshots
